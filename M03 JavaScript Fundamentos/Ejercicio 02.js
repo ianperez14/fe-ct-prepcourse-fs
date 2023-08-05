@@ -3,7 +3,8 @@
 
 function devolverString(string) {
    // Debe retornar un string.
-   // Tu código:
+   // Tu código: 
+   return string
 }
 
 // ⛔️ "X" e "Y" son números.
@@ -11,6 +12,7 @@ function devolverString(string) {
 function suma(x, y) {
    // Retorna el resultado de su suma.
    // Tu código:
+   return (x, y)
 }
 
 function resta(x, y) {
